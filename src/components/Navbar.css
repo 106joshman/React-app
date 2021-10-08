@@ -1,0 +1,28 @@
+/* .navbar {
+    flex: 0.;
+    color: white;
+    background-color: black;
+    display: block;
+    align-items: center;  
+}
+
+a{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.links{
+    display: flex;
+    flex-direction: column;
+    margin-top: 8rem;
+    align-items: center;
+}
+
+.links li{
+    list-style: none;
+    margin: 15px 0 15px 5px;
+    align-items: center;
+} */
